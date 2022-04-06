@@ -1,2 +1,2 @@
 # SisterMarriage21
-Pranjli weds Kumar Gaurav
+Pranjli Kumari weds Kumar Gaurav
