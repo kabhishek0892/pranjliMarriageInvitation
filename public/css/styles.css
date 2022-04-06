@@ -10,6 +10,9 @@
 .rr_staticParallax2{
     /*background-image: url(../img/rr_starBackground.jpg);*/
 }
+html {
+    scroll-behavior: smooth;
+}
 #rr_navigation{
     left: 0px;
     position: absolute;
