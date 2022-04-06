@@ -1,2 +1,2 @@
 # SisterMarriage21
-Meenakshi weds Chandan
+Pranjli weds Kumar Gaurav
