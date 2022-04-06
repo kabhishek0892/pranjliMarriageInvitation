@@ -149,7 +149,7 @@ function showSlides(n) {
 var clock;
 $(document).ready(function() {
   // Grab the current date
-  var currentDate = new Date(2022, 4, 5);
+  var currentDate = new Date(2022, 4, 6);
 
     // Set some date in the future. In this case, it's always Jan 1
     var futureDate  = new Date(2022, 4, 17);
